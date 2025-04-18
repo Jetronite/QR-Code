@@ -1,2 +1,2 @@
-# qr-code-component-main
+# qr-code-component
  This is a qr code
